@@ -1,0 +1,13 @@
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '1', 'Sunčeva svjetlost', 'U ovom radu će se provoditi istraživanje o Sunčevoj svjetlosti', 'https://stup.ferit.hr/index.php/zavrsni-radovi/page/2', '2147483647')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '2', 'Tranzistor', 'U ovom radu će se provoditi istraživanje o tranzistorima', 'https://stup.ferit.hr/index.php/zavrsni-radovi/page/3', '1234567890')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '3', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '4', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '5', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '6', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '7', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '8', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '9', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '10', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '11', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '12', '', '', '', '0')";
+INSERT INTO radovi (id,naziv_rada,tekst_rada, link_rada, oib_tvrtke) VALUES '13', '', '', '', '0')";
